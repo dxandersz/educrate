@@ -1,0 +1,22 @@
+{
+  "name": "educrate",
+  "version": "1.0.0",
+  "description": "Educrate will take the tiered, digital, pay-what-you-want digital bundle model and apply it to books focused on social and ethical self-education on targeted issues like racism, immigration, classism, and environmentalism.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxandersz/educrate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxandersz/educrate/issues"
+  },
+  "homepage": "https://github.com/dxandersz/educrate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
